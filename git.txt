@@ -1,0 +1,11 @@
+git -v                                      >> versão do Git
+git config --global user.name "nome"        >> cadastrar o nome
+git config --global user.email "email"      >> cadastrar email
+git add .                                   >>  Joga arquivos para dar o commit
+git commit -a -m "mensagem"                 >> Adiciona os arquivos para dar o push
+git push -u origin master                   >> Pega os arquivos da branch que vc espeficar
+git pull origin main                        >> Puxar os códigos mais recentes do github
+git branch sergio                           >> Cria branch
+git checkout sergio                         >> Muda para branch
+git Branchs                                 >> Lista as Branchs
+git merge                                   >> Junta as Branchs
