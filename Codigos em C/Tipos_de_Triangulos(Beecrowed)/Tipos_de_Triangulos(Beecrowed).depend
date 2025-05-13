@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1713478455 source:c:\users\giftc\onedrive\Área de trabalho\meus codigos de programação\tipos_de_triangulos(beecrowed)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
